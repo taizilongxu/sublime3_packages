@@ -1,0 +1,53 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night-Eighties-Stormy (SL).tmTheme",
+	"fade_fold_buttons": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.pid",
+		"*.pyc",
+		"._*",
+		"*.swp",
+		"*.bk"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		"__pycache__",
+		"env",
+		"env3"
+	],
+	"font_face": "Monaco",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_bold"
+	],
+	"font_size": 14,
+	"http_proxy": "http://127.0.0.1:1080",
+	"https_proxy": "http://127.0.0.1:1080",
+	"ignored_packages":
+	[
+	],
+	"itg_scrollbar_small": true,
+	"itg_small_tabs": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"sidebar_row_padding_large": true,
+	"sidebar_size_14": true,
+	"smart_indent": true,
+	"tab_size": 4,
+	"theme": "itg.flat.dark.blue.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"vintage_ctrl_keys": true,
+	"wide_caret": true,
+	"word_wrap": true,
+	"wrap_width": 80
+}

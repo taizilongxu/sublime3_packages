@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"gi",
+				"document.getElementById(${0:id})	Document"
+			],
+			[
+				"fun",
+				"fun	Function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					""
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (All)"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (This File Only)"
+				]
+			],
+			[
+				"Packages/Vintageous/Vintageous.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 78.0,
+		"last_filter": "syntaxpy",
+		"selected_items":
+		[
+			[
+				"syntaxpy",
+				"Set Syntax: Python"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packe remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"sider",
+				"Side Bar: Refresh"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"keymap",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ss",
+				"Set Syntax: HTML"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"setting",
+				"Preferences: Settings - Default"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"fec",
+				"Fetch: Manage"
+			],
+			[
+				"setjas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"snipfunc",
+				"Snippet: Function"
+			],
+			[
+				"snioofunc",
+				"Snippet: Anonymous Function"
+			],
+			[
+				"setsjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pc",
+				"Package Control: List Packages"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add Current File"
+			],
+			[
+				"ini",
+				"Git: Init"
+			],
+			[
+				"git:status",
+				"Git (SideBarGit): Status"
+			],
+			[
+				"latexco",
+				"LaTeXTools: Toggle focus (PDF/editor)"
+			],
+			[
+				"latex",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"laste",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			]
+		],
+		"width": 547.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/limbo/Github/LearnJquery",
+		"/Users/limbo/Github/LearnJquery/Chapter 1"
+	],
+	"file_history":
+	[
+		"/Users/limbo/Cloud/jekyll_blog_source/about.html",
+		"/Users/limbo/Github/LearnJquery/Chapter 4/index.html",
+		"/Users/limbo/test/server.py",
+		"/Users/limbo/Github/LearnJquery/Chapter 1/01.js",
+		"/Users/limbo/Github/LearnJquery/Chapter 2/02.css",
+		"/Users/limbo/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/limbo/Github/LearnJquery/Chapter 2/02.js",
+		"/Users/limbo/Github/LearnJquery/Chapter 1/jquery.js",
+		"/Users/limbo/code/qianduan/demo/index.html",
+		"/Users/limbo/code/qianduan/demo/css/main.css",
+		"/Volumes/NO NAME/temp_test.c",
+		"/Users/limbo/Cloud/cli/README.md",
+		"/Users/limbo/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/limbo/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/limbo/Github/diagram/diagram.py",
+		"/Users/limbo/Github/diagram/setup.py",
+		"/Users/limbo/Github/diagram/.gitignore",
+		"/Users/limbo/Documents/sublime-text-replacement/icns/final/icon-highlight-notext.icns",
+		"/Users/limbo/Library/Application Support/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/Users/limbo/code/qianduan/test",
+		"/Users/limbo/Cloud/cli/douban/douban_token.py",
+		"/Users/limbo/test/test.py",
+		"/Users/limbo/Desktop/ML_data/breast-cancer",
+		"/Users/limbo/Desktop/ML_data/svmguide1",
+		"/Users/limbo/Desktop/ML_data/australian",
+		"/Users/limbo/Desktop/cloud.data",
+		"/Users/limbo/Downloads/Bike-Sharing-Dataset/day.csv",
+		"/Users/limbo/Desktop/ML_data/iris.data",
+		"/Users/limbo/Desktop/readonline.asp",
+		"/Users/limbo/Desktop/小论文/test.tex",
+		"/Users/limbo/Desktop/Ascelike/ascexmpl.tex",
+		"/Users/limbo/Desktop/ACS/achemso.tex",
+		"/Users/limbo/Desktop/ML_data/test.tex",
+		"/Users/limbo/Desktop/ML_data/optdigits.tra",
+		"/Users/limbo/Desktop/ML_data/jikuan.csv",
+		"/Users/limbo/Desktop/ML_data/a1a.t",
+		"/Users/limbo/Downloads/DeleteOrderList.php",
+		"/Users/limbo/Desktop/display/all/left.php",
+		"/Users/limbo/Desktop/display/all/right.php",
+		"/Users/limbo/Desktop/display/index..html",
+		"/Users/limbo/Desktop/display/all/all.php",
+		"/Users/limbo/code/mkdocs_tango/docs/index.md",
+		"/Users/limbo/Github/tango_with_django_book/17/chapters/new17.rst",
+		"/Users/limbo/Desktop/3443588.lrc",
+		"/Users/limbo/Desktop/3861244.lrc",
+		"/Users/limbo/Github/tornado_test/static/css/flat-ui.css",
+		"/Users/limbo/Github/tornado_test/templates/login.html",
+		"/Users/limbo/Github/tornado_test/templates/index.html",
+		"/Users/limbo/Github/tornado_test/templates/base.html",
+		"/Users/limbo/Library/Application Support/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+		"/Users/limbo/Github/tornado_test/initDB.sh",
+		"/Users/limbo/Github/tornado_test/db.py",
+		"/Users/limbo/Github/tornado_test/app.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"roothandler",
+			"sdfsf",
+			"shift a",
+			"shitf a",
+			"sdfsf",
+			"super+shift+a",
+			"command+shift+a",
+			"source.pyt",
+			"source",
+			"parser",
+			"    ",
+			"ArgumentParser",
+			"diagrams",
+			"padding",
+			"tableof",
+			"cjk",
+			"0.156934",
+			"13:28",
+			"00-1",
+			"2169998",
+			"dashboard"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/limbo/code/qianduan/demo"
+		},
+		{
+			"path": "/Users/limbo/Github/LearnJquery"
+		},
+		{
+			"path": "/Users/limbo/Cloud/jekyll_blog_source"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"di",
+				"diagram.py"
+			],
+			[
+				"set",
+				"setup.py"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"douban",
+				"douban/douban.py"
+			],
+			[
+				"hel",
+				"hello sublime,you are beautiful"
+			],
+			[
+				"",
+				"static/css/flat-ui.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/Users/limbo/code/qianduan/demo"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 158.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
